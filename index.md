@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Willkommen beim Rumspielen mit Pages"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Bin mal gespannt, was man alles hier machen kann.
